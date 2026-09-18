@@ -72,10 +72,6 @@ A scatter plot comparing actual vs predicted study hours is saved to results_plo
 ![results_plot.png](results_plot.png) <br>
 
 
-OUTPUT SCREEN- 
-![OUTPUT SCREEN WITH GIVEN MAE AND R VALUE](OUTPUT-SCREEN.png)
----
-
 ##  Tech Stack
 
 Python · pandas · numpy · scikit-learn · matplotlib · seaborn
